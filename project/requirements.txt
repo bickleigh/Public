@@ -1,0 +1,6 @@
+# Requirements for the project.py program
+fpdf2==2.7.5  # Required for PDF generation in project.py and test_project.py
+
+# Requirements for the test_project.py program
+pytest==7.4.0  # Required for running pytest tests
+pytest-mock==3.10.0  # Required for mocking in pytest tests

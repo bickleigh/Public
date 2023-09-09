@@ -1,0 +1,15 @@
+{
+    "recipes": [
+        {
+            "name": "Beef Stew",
+            "ingredients": [
+                "Beef",
+                "Onion",
+                "Tomatoes",
+                "stock"
+            ],
+            "instructions": "Fry the beef untill brown, add the onions and brown, finally add the tomatoes and stock. Cook until meat is tender.",
+            "category": "English"
+        }
+    ]
+}
