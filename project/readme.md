@@ -39,7 +39,7 @@ Then cd directory to project
 
 
 We should now be in the project directory:
-Download the project code from here: [Github Project](https://github.com/code50/3993577/tree/main/project)
+Download the project code from here: [Github Project](https://github.com/bickleigh/Public.git)
 unzip or copy code to the project directory.
 
 and install the requirements.txt with:
