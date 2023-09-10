@@ -5,7 +5,7 @@
 
 ### Written in Python by Stephen Robinson sarobinson.mail@gmail.com
 
-### Video Demo:
+### Video Demo: [Demo Video on Youtube](https://www.youtube.com/watch?v=ydK_jaeUKwE&t=35s)
 In this brief video, I would like to introduce a basic tool written in Python, that will help the way you experience cooking and meal planning. The Recipe Management Software is designed to simplify recipe creation, making it more enjoyable and organized than ever before.
 
 Whether you're a seasoned chef looking to streamline your recipes or someone just beginning their cooking adventure, the software has something to offer. It's a digital cookbook, meal planner, and shopping assistant, all rolled into one.
